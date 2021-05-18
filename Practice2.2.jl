@@ -16,6 +16,5 @@ sortkey!(func_, massive)
 
 massive
 
-Out[6]:
 1×3 Array{Int64,2}:
  5  1  7
